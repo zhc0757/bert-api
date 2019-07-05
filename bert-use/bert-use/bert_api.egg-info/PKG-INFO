@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: bert-api
+Version: 0.0.1
+Summary: a wrapper of bert-tensorflow
+Home-page: https://github.com/zhc0757/bert-api
+Author: zhc
+Author-email: ak4777@live.cn
+License: Apache Licene 2.0
+Description: a wrapper of bert-tensorflow of Google for python
+Keywords: pip,bert,api,wrapper
+Platform: any

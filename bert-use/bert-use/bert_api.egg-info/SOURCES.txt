@@ -1,0 +1,11 @@
+setup.py
+bert_api/__init__.py
+bert_api/api.py
+bert_api/label.py
+bert_api/run_directly.py
+bert_api/using_bert_demo.py
+bert_api.egg-info/PKG-INFO
+bert_api.egg-info/SOURCES.txt
+bert_api.egg-info/dependency_links.txt
+bert_api.egg-info/requires.txt
+bert_api.egg-info/top_level.txt
