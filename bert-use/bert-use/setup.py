@@ -1,6 +1,8 @@
 from setuptools import setup, find_packages
 
-#reference from http://xiaoh.me/2015/12/11/python-egg/
+#reference from
+#http://xiaoh.me/2015/12/11/python-egg/
+#https://blog.csdn.net/m0_38088359/article/details/83656872
 def setupMain():
     setup(
         name = "bert-api",
@@ -17,7 +19,7 @@ def setupMain():
         packages = find_packages(),
         include_package_data = True,
         platforms = "any",
-        install_requires = ['bert-tensorflow']
+        install_requires = ['bert-tensorflow>=1.0.1']
     )
 
 if __name__=='__main__':
