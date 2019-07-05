@@ -1,2 +1,2 @@
 # bert-api
-an API package of bert-tensorflow
+an API wrapper of bert-tensorflow
