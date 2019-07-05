@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 #reference from
-#http://xiaoh.me/2015/12/11/python-egg/
-#https://blog.csdn.net/m0_38088359/article/details/83656872
+#   http://xiaoh.me/2015/12/11/python-egg/
+#   https://blog.csdn.net/m0_38088359/article/details/83656872
 def setupMain():
     setup(
         name = "bert-api",
